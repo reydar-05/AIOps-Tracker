@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ AIOps Sentinel
+# 🛡️ AIOps Tracker
 
 ### AI-driven infrastructure monitoring and incident analysis for AWS
 
