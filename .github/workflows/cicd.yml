@@ -11,6 +11,7 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  workflow_dispatch:
 
 # Lint + Test run on every push/PR.
 # Deploy jobs only run on main push AND only when relevant files change.
